@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52471892068",
+    "project_id": "newfazwall",
+    "storage_bucket": "newfazwall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52471892068:android:a1728fd68cf022be65f771",
+        "android_client_info": {
+          "package_name": "com.example.fazwalls"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC7Pkl8pPI7QVFSUH__eSRR7z-F36TXVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
